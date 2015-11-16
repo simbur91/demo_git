@@ -2,4 +2,4 @@
 une demo de git se passe bien
 
 et maintenant on modifie le reste depuis github
-mais aussi depuis ma machine
+mais aussi depuis ma machine et on s'amuse
